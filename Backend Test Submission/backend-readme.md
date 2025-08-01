@@ -117,17 +117,3 @@ Error responses:
 }
 ```
 
-## 🚀 Production Deployment
-
-For production use:
-
-1. Set up environment variables for configuration
-2. Consider using a persistent database (MongoDB, PostgreSQL)
-3. Add rate limiting middleware
-4. Implement authentication if needed
-5. Add logging middleware
-6. Use PM2 or similar for process management
-
-## 📄 License
-
-MIT License - See LICENSE file for details
